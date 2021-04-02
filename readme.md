@@ -27,9 +27,25 @@ Es un mundo de realidad virtual descentralizado donde los jugadores pueden posee
 #### Gods Unchained
 Gods Unchained es un juego digital de cartas coleccionables donde las cartas se emiten como NFTs en la blockchain.
 
-##### Binance Collectibles
+#### Binance Collectibles
 Binance Collectibles son NFTs emitidos en colaboración por Binance y Enjin en ocasiones especiales.
 
+### Sitios que comercializan NFT 
+
+[Foundation_app](https://foundation.app/)
+>Venden arte en todas sus formas via subastas. La forma de venta, via subastas sería una de las mejores formas para poner los productos en venta.
+
+[OpenSea](https://opensea.io/)
+>Es la plataforma mas grande, donde se vende todo tipo de NFT. Son nuestro modelo a seguir para el publico al que apuntan.
+
+[Rarible](https://rarible.com/)
+>Poseen tokens propios, NFTs, que otorgan a los usuarios mas activos para recompensarlos por su participación, y les dan voz dentro de las decisiones de la plataforma. 
+
+[Super_Rare](https://superrare.co/)
+>Plataforma para artistas, al estar en _early access_ permiten a los usuarios registrarse como artistas para vender con un form bastante practico.
+
+[Atomic_Hub](https://wax.atomichub.io/)
+> Plataforma orientada a la venta de coleccionables de fantasia como juegos, cartas, gifs. La estetica visual es la que mas nos gusta para usar de fuente para nuestro Marketplace. 
 
 ### Quienes somos? 
 
