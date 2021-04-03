@@ -55,4 +55,4 @@ Binance Collectibles son NFTs emitidos en colaboración por Binance y Enjin en o
 
 >Jorge Gorostegui Di Peto, 29 años, practicante de Kendo y en el último tramo de la Lic. en Ciencia y Tecnología de Alimentos y estudiante de Digital House.
 
->
+>Agustin Arias, 23 años, pasante de fullstack y estudiante de Digital House.
